@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chadive Sreenath</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,, I'm Chadive Sreenath</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
