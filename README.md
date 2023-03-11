@@ -3,11 +3,11 @@
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
-- 🌱 I’m currently learning **React, Full-Stack-Web-Development**
+- 🌱 I’m currently learning **React, front-end--Web-Development**
 
 - 📫 How to reach me **sreenath.chadive@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MtiOtHDTMp8a6O-ZLbAaj8YJXAtiqxLx/view?usp=sharing](https://drive.google.com/file/d/1MtiOtHDTMp8a6O-ZLbAaj8YJXAtiqxLx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gOeWT2YNyUcVX1yBI3P8Is23m10rwUD1/view?usp=share_link](https://drive.google.com/file/d/1gOeWT2YNyUcVX1yBI3P8Is23m10rwUD1/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
