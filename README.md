@@ -1,9 +1,9 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Chadive Sreenath</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">A passionate front-end-Web-Developer from India</h3>
 
 <div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
 
-- 🌱 I’m currently learning **React, front-end--Web-Development**
+- 🌱 I’m currently learning **React, front-end-Web-Development**
 
 - 📫 How to reach me **sreenath.chadive@gmail.com**
 
